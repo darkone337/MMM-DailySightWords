@@ -12,10 +12,12 @@
     "around",
     "been",
     "busy",
+    "can't",
     "come",
     "could",
     "does",
     "done",
+    "don't",
     "down",
     "each",
     "eight",
@@ -63,6 +65,7 @@
     "ten",
     "their",
     "they",
+    "they're",
     "three",
     "too",
     "twelve",
@@ -71,6 +74,7 @@
     "very",
     "want",
     "were",
+    "we're",
     "what",
     "when",
     "where",
@@ -79,7 +83,8 @@
     "whose",
     "why",
     "would",
-    "your"
+    "your",
+    "you're"
   ],
   "cloudy" : [
   ],
